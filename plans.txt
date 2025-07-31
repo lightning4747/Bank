@@ -1,5 +1,7 @@
 basically, today is day 1
 
-  the plan is to learn about the elements in       login page and sign up page and develop one, additionally I'll try to style it aswell let's see how many days it's gonna take. 
+goal: the plan is to learn about the elements in login page and sign up page and develop one, additionally I'll try to style it aswell let's see how many days it's gonna take. 
 
 ideas, theme is gonna be gazi 🥰🥰 , gazi's website, and pretty much try to add title tage to all the elements in the page, I wanna add the tree from her website,have to return back to it. planning to add a alot of Easter eggs hehe.
+
+Report: today finsihed up( partiality) with the sign up page, added some css and learned new kind of implementations of elements like span and input.came across so many new and unexplored elements such as selection, option, input types like mail,number,text,url,tel,date then....learned quite a bit of css aswell, thanks to my mentor.
