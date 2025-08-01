@@ -7,24 +7,57 @@
     <title>Gazi-Bank login page</title>
 </head>
 <body>
-    <h1><a href="https://gazijarin.com/" style="text-decoration: none; color: black;">Gazi</a> Bank</h1>
-    <div>
-        <h3>login</h3>
-    <form action="">
-    <input type="text" name="username" placeholder="username" title="Enter the account holder's name">
-  <div> 
-     <input type="password" name="password" placeholder="password" title="enter your password">
-     <span class="eye" onclick="smt">👁️</span>
-   </div>
-   <input type="submit">
+     <h1 class="bank">
+    <a href="https://gazijarin.com/" style="text-decoration: none; color: #64ffda;">txt</a> Bank
+  </h1>
 
-<div>
-    <p>
-        <p>Don't have a account? create one <a href="Bank-main\frontend\singup.html">Create a account </a></p>
-    </p>
-</div>
+  <div class="container">
+    <h2 class="title">LOGIN</h2>
+    <p class="subtitle">Provide the following information to log in</p>
 
+    <form>
+      <div class="input-group">
+        <small>Enter your name</small>
+        <input type="text" name="username" placeholder="Name" title="Enter the account holder's name"/>
+      </div>
+
+      <div class="input-group">
+        <small>Enter your details</small>
+        <input type="number" name="account-number" placeholder="Account Number" title="Enter the account number"/>
+      </div>
+
+      <div class="input-group">
+        <input type="text" name="account-name" placeholder="Account Name" title="Enter the account name"/>
+      </div>
+           
+      <div class="input-row">
+        
+        <input type="tel" name="number" placeholder="Phone Number" title="Enter the phone number"/>
+        <input type="email" name="email" placeholder="Mail ID" title="Enter your email"/>
+      </div>
+
+      
+
+      <div class="input-group">
+        <small>Enter your password</small>
+        <div class="password-wrap">
+          <input type="password" id="password" name="password" placeholder="Password" style="width: 340px;">
+          <span class="eye" onclick="togglePassword()">👁️</span>
+          <a href="" style="text-decoration: none; font-size: smaller; color: rgb(47, 47, 47);">Forgot password?</a>
+        </div>
+      </div>
+
+      <input type="submit" value="login" class="submit-btn"/>
+
+      <p>Don't Have an account? <a href="singup.html"><b>Signup</b></a></p>
     </form>
-    </div>
+  </div>
+
+  <script>
+    function togglePassword() {
+      const password = document.getElementById("password");
+      password.type = password.type === "password" ? "text" : "password";
+    }
+  </script>
 </body>
 </html>
