@@ -11,3 +11,9 @@ Day 2
 ideas: made some changes and decided to include java and c to handle the backend along with js
 
 report : just added the css to the login page and did some changes still not sure, learned(revised) some js, event handling,dom manipulation.
+
+Day 3
+
+ideas : decided to make encryption and decryption tool for security ofcourse in c for speed.
+
+report : added some interactive features like checking whether all the input fields are filled before submitting and shows red border if it's not filled and started with my java aswell. created a hash map and created demo database (own inputs) to check it's working. just constructed the basic logic yet to paint the actual painting (draw the painting or paint? ). noticed somethings, today I learned about the dom manipulation and event handling in quite advanced way, I know it from classes but in a actual practice it feels even more complex and actually I understand the logic behind why and it's the thing that....ts is actual shi , real deal "I don't think I could have a learned it just from class".
