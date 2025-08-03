@@ -22,4 +22,4 @@ day 4
 
 ideas : today the plan is to learn even more java and gonna start to create the homepage after fixing the linking issue in js.
 
-report:
+report: absolutely changed the entire folder structure. didn't change a single line of code yet somehow fucked up on the structure and took me 1.30 hrs to fix it and the next thing is tried to learn the files in java got cooked and accedentelly got my third star on hacker rank. just another day went along with the flow.
