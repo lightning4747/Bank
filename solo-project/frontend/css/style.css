@@ -1,0 +1,110 @@
+body {
+  background-color: #112240;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: #0a192f;
+  margin: 0;
+  padding: 0;
+    font-family: "poppins", sans-serif;
+}
+small {
+    font-family: "poppins", sans-serif;
+    font-weight: 550;
+}
+p>a {
+  text-decoration: none;
+  font-size: small;
+  color: #0a192f;
+  background-color:#64ffda;
+  border-radius: 8px;
+  padding: 3px;
+  text-align: center;
+  justify-content: center;
+   border: 1px solid #ffffff;
+}
+p>a:hover {
+   background-color: #52d6c7;
+   box-shadow: 0 0 10px #46f9cf;
+}
+.bank {
+  color: #64ffda;
+  text-align: center;
+  margin: 20px 0;
+  font-family: "poppins", sans-serif;
+}
+
+.container {
+  background: white;
+  padding: 2rem;
+  border-radius: 24px;
+  box-shadow: 0 0 20px #64ffda;
+  width: 400px;
+  margin: auto;
+}
+
+.title {
+  margin-top: 0;
+  color: #0a192f;
+}
+
+.subtitle {
+  font-size: 0.9rem;
+  color: #666;
+  margin-bottom: 1rem;
+}
+
+.input-group {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 15px;
+}
+
+.input-row {
+  display: flex;
+  gap: 10px;
+  margin-bottom: 15px;
+}
+
+input[type="text"],
+input[type="number"],
+input[type="tel"],
+input[type="email"],
+input[type="date"],
+input[type="password"] {
+  width: 93%;
+  height: 30px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+  padding: 5px 10px;
+}
+
+.password-wrap {
+  position: relative;
+}
+
+.password-wrap input {
+  width: 100%;
+  padding-right: 40px;
+}
+
+.eye {
+  position: absolute;
+  right: 10px;
+  top: 7px;
+  cursor: pointer;
+}
+
+.submit-btn {
+  background-color: #64ffda;
+  border: none;
+  padding: 10px;
+  border-radius: 8px;
+  width: 100%;
+  font-weight: bold;
+  cursor: pointer;
+  font-size: larger;
+}
+
+.submit-btn:hover {
+  background-color: #52d6c7;
+   box-shadow: 0 0 10px  #52d6c7;
+}
