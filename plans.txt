@@ -1,4 +1,4 @@
-basically, today is day 1
+basically, today is Day 1
 
 goal: the plan is to learn about the elements in login page and sign up page and develop one, additionally I'll try to style it aswell let's see how many days it's gonna take. 
 
@@ -6,7 +6,7 @@ ideas : theme is gonna be gazi 🥰🥰 , gazi's website, and pretty much try to
 
 Report: today finsihed up( partiality) with the sign up page, added some css and learned new kind of implementations of elements like span and input.came across so many new and unexplored elements such as selection, option, input types like mail,number,text,url,tel,date then....learned quite a bit of css aswell, thanks to my mentor.
 
-Day 2
+day 2
 
 ideas: made some changes and decided to include java and c to handle the backend along with js
 
@@ -17,3 +17,9 @@ Day 3
 ideas : decided to make encryption and decryption tool for security ofcourse in c for speed.
 
 report : added some interactive features like checking whether all the input fields are filled before submitting and shows red border if it's not filled and started with my java aswell. created a hash map and created demo database (own inputs) to check it's working. just constructed the basic logic yet to paint the actual painting (draw the painting or paint? ). noticed somethings, today I learned about the dom manipulation and event handling in quite advanced way, I know it from classes but in a actual practice it feels even more complex and actually I understand the logic behind why and it's the thing that....ts is actual shi , real deal "I don't think I could have a learned it just from class".
+
+day 4
+
+ideas : today the plan is to learn even more java and gonna start to create the homepage after fixing the linking issue in js.
+
+report:
