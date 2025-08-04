@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Gazi-Bank Home</title>
+  <link rel="stylesheet" href="../css/home.css" />
+</head>
+<body>
+  <!-- Background bubbles -->
+  <div class="bg-bubble" style="width: 150px; height: 150px; top: 20%; left: 10%; animation: float 6s ease-in-out infinite;"></div>
+  <div class="bg-bubble" style="width: 100px; height: 100px; top: 60%; left: 80%; animation: float 5s ease-in-out infinite reverse;"></div>
+  <div class="bg-bubble" style="width: 200px; height: 200px; top: 30%; right: 5%; animation: float 7s ease-in-out infinite 2s;"></div>
+  
+  <div class="hero">
+    <h1>Welcome to Gazi-Bank</h1>
+    <p>Highly secure.</p>
+    <a class="btn" href="login.html" id="loginBtn">Login</a>
+    <a class="btn" href="singup.html" id="signupBtn" style="margin-left: 10px;">Sign Up</a>
+  </div>
+
+  <div class="features">
+    <div class="card">
+      <h3>Secure Accounts</h3>
+      <p>Better than jp morgan.</p>
+    </div>
+    <div class="card">
+      <h3>Instant Transfers</h3>
+      <p>aura++</p>
+    </div>
+    <div class="card">
+      <h3>24/7 Support</h3>
+      <p>theriyala</p>
+    </div>
+  </div>
+
+  <div class="footer">
+    &copy; 2025 Gazi-Bank. All rights reserved. 
+  </div>
+  
+  <script>
+    // Animate cards when they come into view
+    document.addEventListener('DOMContentLoaded', function() {
+      // Animate cards
+      const cards = document.querySelectorAll('.card');
+      const footer = document.querySelector('.footer');
+      
+      // Animate cards on load
+      setTimeout(() => {
+        cards.forEach(card => {
+          card.classList.add('animated');
+        });
+      }, 300);
+      
+      // Animate footer after cards
+      setTimeout(() => {
+        footer.classList.add('visible');
+      }, 1200);
+      
+      // Button loading animations
+      const loginBtn = document.getElementById('loginBtn');
+      const signupBtn = document.getElementById('signupBtn');
+      
+      loginBtn.addEventListener('click', function(e) {
+        if (!this.href.includes('#')) { // Only animate if not a dummy link
+          e.preventDefault();
+          this.classList.add('loading');
+          setTimeout(() => {
+            window.location.href = 'login.html';
+          }, 1500);
+        }
+      });
+      
+      // signupBtn.addEventListener('click', function(e) {
+      //   if (!this.href.includes('#')) { // Only animate if not a dummy link
+      //     e.preventDefault();
+      //     this.classList.add('loading');
+      //     setTimeout(() => {
+      //       window.location.href = 'signup.html';
+      //     }, 1500);
+      //   }
+      // });
+      
+      // Create additional floating bubbles
+      for (let i = 0; i < 5; i++) {
+        createBubble();
+      }
+    });
+    
+    function createBubble() {
+      const bubble = document.createElement('div');
+      bubble.className = 'bg-bubble';
+      
+      const size = Math.random() * 100 + 50;
+      const posX = Math.random() * 100;
+      const posY = Math.random() * 100;
+      const duration = Math.random() * 5 + 5;
+      const delay = Math.random() * 5;
+      
+      bubble.style.width = `${size}px`;
+      bubble.style.height = `${size}px`;
+      bubble.style.left = `${posX}%`;
+      bubble.style.top = `${posY}%`;
+      bubble.style.animation = `float ${duration}s ease-in-out infinite ${delay}s`;
+      bubble.style.opacity = Math.random() * 0.2 + 0.05;
+      
+      document.body.appendChild(bubble);
+    }
+  </script>
+</body>
+</html>
