@@ -29,3 +29,9 @@ day 5
 ideas : none..
 
 report: fuck ass I hate life, I created the home page it only display the login or signup link with overly well written animations and designs.shit I didn't make it , deepseek and chatgpt obviously. I was only supposed to get the base shits like the necessary fields instead I for some reason made that entire shit with ai now it doesn't even feel like my own own shi, honestly I wanna delete that page. my actual idea was to create the page after logged in but turns out I wrote some useless page but it does look cool but is it necessary? nope then...ughhh I need to create the dashboard and other actual actual banking related shi, having so many stuffs coming up on my dumb ahh.today I found a tutorial on YouTube, it length is about 6 hours or some and he promises to teach tailwind,nextjs,and other frame works most importantly he made actual functioning real world website where you can actually perform the transactions.....deadass fingure this shit out yourself, fuck you 
+
+day 6
+
+ideas : should learn some some shit before diving head into the next phase 
+
+report: today I had my html,css class at my college and for some reason I felt so fucking tired there next thing is I came here leaned some more about interface, abstraction, polymorphism and finished the modal 2 on my course at Coursera. I should primarily focusing on learning file handling, collections and other backend shits and need to solve alot..I mean a ton of fucking problems, deadass...
