@@ -35,3 +35,9 @@ day 6
 ideas : should learn some some shit before diving head into the next phase 
 
 report: today I had my html,css class at my college and for some reason I felt so fucking tired there next thing is I came here leaned some more about interface, abstraction, polymorphism and finished the modal 2 on my course at Coursera. I should primarily focusing on learning file handling, collections and other backend shits and need to solve alot..I mean a ton of fucking problems, deadass...
+
+day 7
+
+ideas : need to learn 
+
+report : today, leaned about linked list in java not from the collections , I have manually implemented the list by class , it was very interesting like the actual joy from programming is typing and creating something without constantly getting the need to the look up onto something in the net. questions will arise,it will be ambitious but at the end of the typing straight for like an hour creating something, implementing my creativity, my sneaky out of the world tricks brings me so much joy.
