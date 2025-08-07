@@ -41,3 +41,9 @@ day 7
 ideas : need to learn 
 
 report : today, leaned about linked list in java not from the collections , I have manually implemented the list by class , it was very interesting like the actual joy from programming is typing and creating something without constantly getting the need to the look up onto something in the net. questions will arise,it will be ambitious but at the end of the typing straight for like an hour creating something, implementing my creativity, my sneaky out of the world tricks brings me so much joy.
+
+day 8
+
+ideas : learn..
+
+report : leaned about the collections in java and looking forward to learn other shis aswell, ngl could have finished with file handling if I wasn't being disturbed. to be honest I should get back to work but I wanna learn, tailwind css and javascript and java. I can learn sql progressivevly as I continue with the project but these three things are very important and today I just discovered the code for a calculator in js.... dam shi was hot as fuck like who the fuck thought that making a simple ahh calculator would require this many lines of code, I understand it involves dom still It showed me my level... doin some leetcode, called it a day.
