@@ -52,3 +52,15 @@ day 9
 ideas : dam....
 
 report: feel like faking my streak on here, today solved some hackerrank, Euler. 
+
+day 10
+ideas : bow
+
+report: leaned no shit tbh not that much, 
+
+day 11
+
+ideas : wrote something on the java files
+
+
+report: today was a big day, morning started with file handling done no shi. around 3 I went to get my haircut, I must have done something to him in my previous life, bro cooked me fr, should fix it Tommorow (soo fucking frustrated). for the project, learned java file handling, serialisation, deserialisation, and some backend works and developed the backend for the user's action ( not completed) like deposit and withdraw functions. most importantly I usually having an error in my java file always, I ignored it like a real man, today I started with my java, it showed error in my package declaration,"incorrect name" how's the possible vs code is the one who imported the package, in an practice file I encountered this and handled it by specifying the it's dir. but this time I can't do shi it's a big structure so I tried every possible combinations and every permenention of every known elements and the error persisted, finally I gave up and decided to study css and js and I accidentally open the vs code with my project, for my suprise it doesn't show any error and runs just fine....all I had to done was to restart that shi....like yea, wasted only an hour, didn't eat my dinner now I'm silently starving, don't even have any snacks.. goodnight 
