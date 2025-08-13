@@ -64,3 +64,16 @@ ideas : wrote something on the java files
 
 
 report: today was a big day, morning started with file handling done no shi. around 3 I went to get my haircut, I must have done something to him in my previous life, bro cooked me fr, should fix it Tommorow (soo fucking frustrated). for the project, learned java file handling, serialisation, deserialisation, and some backend works and developed the backend for the user's action ( not completed) like deposit and withdraw functions. most importantly I usually having an error in my java file always, I ignored it like a real man, today I started with my java, it showed error in my package declaration,"incorrect name" how's the possible vs code is the one who imported the package, in an practice file I encountered this and handled it by specifying the it's dir. but this time I can't do shi it's a big structure so I tried every possible combinations and every permenention of every known elements and the error persisted, finally I gave up and decided to study css and js and I accidentally open the vs code with my project, for my suprise it doesn't show any error and runs just fine....all I had to done was to restart that shi....like yea, wasted only an hour, didn't eat my dinner now I'm silently starving, don't even have any snacks.. goodnight 
+
+day 12 
+ideas: need to learn more, need to develop more
+
+report: done with temprary java backend, the way that i am going is very inconsistent and around the cliff, but i think its a good thing in one way in which i can explore more than just one path and learned alot of stuff tbh like java.secure and random uid generation and pattern checker. is this the right way to work on the project? my objective is to learn so i guess its going well in this way but i can't be certain cause i ain't know all that, this could be bad or good, i can only wait to see how it unfolds 
+
+
+day 13
+
+ideas: need to learn the basic shis and develop strong foundation I mean a strong foundation in the basics 
+
+report: today i went to my friend's brithday party but I won't say it like a excuse , i genuinely feel like a useless piceiof shi. my friends just overates me and for the project part i did 0 work, i started with the backend tried to complete the main function and just tried to get done with the backend and work and decided to connect the frontend with yhe backend but i got knocked, I dont know why then i felt very sleepy and fell asleep while watching some css tutorial, i didn't eat from the morning, didn't drink water, my friend gave me two pieces of kitkat that was my meal for the whole day till 8:00 pm i had a barely enough dinner(birthday party) I can't eat everything in the restaurant soo.
+tomorrow I'm going home and I wouldn't be able to work on the laptop but I'll try with my mobile, lets see
