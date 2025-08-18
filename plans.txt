@@ -101,6 +101,6 @@ report : yesterday git was not opening for some reason. yesterday was a leetcode
 
 day 18
 
-ideas :
+ideas : need to grind 
 
-report:
+report: today I discovered about open source contributions and that's how I can get a gf with my taste atleast kinda. so I'm planning doing some open source contributions in the future and need to study leetcode patterns. heavy sickness for the past couple of days btw.
