@@ -93,3 +93,14 @@ day 16
 ideas : deadass
 
 report: today was a wonderful day for leetcode, solved 2 or 3 questions and implemented the algo in multiple different vast amount of 3 languages.  just had a long ahh chit chat with my friend, personal life is going like normal for a normal person but the word normal and me shouldn't belong in the same sentance, for some reason i always feels tired, frustrated, and deadass (I'm currently sick) still. leaned about the typecasting in js and java . 
+
+day 17
+ideas : 😭
+
+report : yesterday git was not opening for some reason. yesterday was a leetcode day did some and slept 
+
+day 18
+
+ideas :
+
+report:
