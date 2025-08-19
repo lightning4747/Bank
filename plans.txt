@@ -104,3 +104,9 @@ day 18
 ideas : need to grind 
 
 report: today I discovered about open source contributions and that's how I can get a gf with my taste atleast kinda. so I'm planning doing some open source contributions in the future and need to study leetcode patterns. heavy sickness for the past couple of days btw.
+
+day 19
+
+ideas : questions 
+
+report:today leaned some raw ass date and time concept in java and solved a leetcode like fucking idiot that's it.
