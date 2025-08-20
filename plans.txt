@@ -110,3 +110,9 @@ day 19
 ideas : questions 
 
 report:today leaned some raw ass date and time concept in java and solved a leetcode like fucking idiot that's it.
+
+day 20
+
+ideas : the ideas coloum shouldn't be used like this
+
+report: done with the basic validation (updated the existing one) still not working. things aren't going well in the last week, reason is one i actually have to lock in second i have to know my path (bro's finding his self for the last 4 years), i am the one advising to go with da flow but still instead of jumping around and running zig zag, it would be better if i ran straight somewhere. third somethings are going on life pretty lately I don't like to deal with it aswell but it hunts me sooo .....yea
