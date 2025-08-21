@@ -116,3 +116,9 @@ day 20
 ideas : the ideas coloum shouldn't be used like this
 
 report: done with the basic validation (updated the existing one) still not working. things aren't going well in the last week, reason is one i actually have to lock in second i have to know my path (bro's finding his self for the last 4 years), i am the one advising to go with da flow but still instead of jumping around and running zig zag, it would be better if i ran straight somewhere. third somethings are going on life pretty lately I don't like to deal with it aswell but it hunts me sooo .....yea
+
+day 21
+
+ideas : learn leanr (idk what to)
+
+report: deadass today was not a great and not so bad, revised structures in c and linkedlist in java and some other stuffs like, complete understanding of static and non static methods and variables. and learned about the memory palace of java, class area, satic , heap, method . and in ghe evening saw some CSS and html( i have to lock in😭😭). and played games for around 2-3 hours so....
