@@ -122,3 +122,8 @@ day 21
 ideas : learn leanr (idk what to)
 
 report: deadass today was not a great and not so bad, revised structures in c and linkedlist in java and some other stuffs like, complete understanding of static and non static methods and variables. and learned about the memory palace of java, class area, satic , heap, method . and in ghe evening saw some CSS and html( i have to lock in😭😭). and played games for around 2-3 hours so....
+
+day 22
+
+ideas : --
+report : today i decided to re learn JavaScript (by accident) and i have understood so many things like closure, objects, literal objects and this keyword and so many things. the thing is during my first time watching those tutorials i made up a mentality where a function is just that "oh if i have to access a function inside a function i have to assign a parameterized outer function to a var then only i can access" deadass that's called a constructor...and the function should be declared using the prototype. i had no idea what closures are untill now, so many things i have actually leaned Today. and instanceof HTMLdocument,😭
