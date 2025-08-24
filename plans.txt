@@ -127,3 +127,15 @@ day 22
 
 ideas : --
 report : today i decided to re learn JavaScript (by accident) and i have understood so many things like closure, objects, literal objects and this keyword and so many things. the thing is during my first time watching those tutorials i made up a mentality where a function is just that "oh if i have to access a function inside a function i have to assign a parameterized outer function to a var then only i can access" deadass that's called a constructor...and the function should be declared using the prototype. i had no idea what closures are untill now, so many things i have actually leaned Today. and instanceof HTMLdocument,😭
+
+day 23:
+
+ideas : learn more
+report :
+started to learn python, dam that looks easy but if the foundation is easy then it will hold soke pretty advance stuffs, ik people will always wanna push things to their limits, looking forward to becoming something meaningful instead of nothing 
+
+day 24
+
+ideas - leanr more lil bro
+report: 
+continued with my python learned, while,for, data types, list, tuples, dictionary, set and their functions and string operations and function is yet to be learned but I've got some idea, worked with some codes and the laptop that I've been working with started to "misbehave" bro automatically deleted vs code and i don't know my other files are safe or not and the owner still decided to install rdr 2 like bro.
