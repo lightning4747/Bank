@@ -139,3 +139,7 @@ day 24
 ideas - leanr more lil bro
 report: 
 continued with my python learned, while,for, data types, list, tuples, dictionary, set and their functions and string operations and function is yet to be learned but I've got some idea, worked with some codes and the laptop that I've been working with started to "misbehave" bro automatically deleted vs code and i don't know my other files are safe or not and the owner still decided to install rdr 2 like bro.
+
+day 25
+
+report :, started with python file and oops and python is very fucking easy like it feels illegal, i spent a whole afternoon for file handling in java but in python i only typed 2 lines , 2 liness guysss dam, and revised the oops in java aswell. but after that i played some unemployed people 's fav game cause I'm naturally good at it so everyone would usually calls me for a match, dam today was a good match, for the first time i guess i played in some matching matching stats but we beat em 8-0, in the second natch so any ways, see myself Tommorow.
