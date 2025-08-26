@@ -143,3 +143,7 @@ continued with my python learned, while,for, data types, list, tuples, dictionar
 day 25
 
 report :, started with python file and oops and python is very fucking easy like it feels illegal, i spent a whole afternoon for file handling in java but in python i only typed 2 lines , 2 liness guysss dam, and revised the oops in java aswell. but after that i played some unemployed people 's fav game cause I'm naturally good at it so everyone would usually calls me for a match, dam today was a good match, for the first time i guess i played in some matching matching stats but we beat em 8-0, in the second natch so any ways, see myself Tommorow.
+
+day 26
+
+report: learned file handling in java and was doing a full stack file operation program before i got kidnapped for hackathon presentation dec making, peace
